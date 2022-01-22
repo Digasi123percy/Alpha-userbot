@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/zeeoneofc/Alpha-userbot/fork">
+  <a href="https://github.com/learningbots79/Alpha-userbot/fork">
     <img src="https://img.shields.io/github/forks/zeeoneofc/Alpha-userbot?label=Fork&style=social">
     
   </a>
